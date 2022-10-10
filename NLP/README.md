@@ -2,7 +2,7 @@
 
 ## Multi-class Topic Classification
 
-##Overview
+## Overview
 
 The project is based on classification of  responses to newspaper articles. The documents are classified to the different categories - newspaper segment.
 This allows for effective routing of communications and timely feedback.
