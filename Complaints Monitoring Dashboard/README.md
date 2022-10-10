@@ -7,6 +7,6 @@ Factors like number of complaints treated, time it takes to close a complaint, a
 
 ## Technologies Used
 
-MS Power BI
-DAX
+MS-Power BI,
+DAX,
 Power Query
