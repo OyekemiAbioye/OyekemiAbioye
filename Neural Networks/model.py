@@ -7,16 +7,7 @@ from keras.wrappers.scikit_learn import KerasClassifier
 from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.pipeline import Pipeline
 
-"""This function builds a new model and returns it.
 
-    The model should be implemented as a sklearn Pipeline object.
-
-    Your pipeline needs to have two steps:
-    - preprocessor: a Transformer object that can transform a dataset
-    - model: a predictive model object that can be trained and generate predictions
-
-    :return: a new instance of your model
-    """
 class Preprocessor(BaseEstimator, TransformerMixin):
     def fit(self, X, y=None):
         return self
