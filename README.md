@@ -11,4 +11,4 @@ Currently improving my skills in MLOps: Kubeflow, MLFlow
 
 ### You can also find me here :earth_americas:
 
-**[oyekemiabioye@github.io](https://oyekemiabioye@github.io/)**
+**[oyekemiabioye.com](https://oyekemiabioye.com/)**
